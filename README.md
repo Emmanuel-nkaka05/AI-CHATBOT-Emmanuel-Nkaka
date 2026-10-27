@@ -92,6 +92,3 @@ A dictionary is used instead of a long `if-elif` ladder. Lookup is a direct acce
 - Input handling and sanitization
 - Basic AI concepts (rule-based systems vs. generative models)
 
-## License
-
-This project is for learning purposes. Use and modify it freely.
